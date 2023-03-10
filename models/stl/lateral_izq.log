@@ -1,0 +1,30 @@
+Conversión de Solid Edge en STL
+Fecha: miércoles,marzo 08,2023 08:35
+Archivo fuente:D:\Repositorios\WalkingRobot\models\lateral_izq.par
+Sistema fuente: SOLID EDGE
+
+Hardware:
+Procesador: AMD A12-9700P RADEON R7, 10 COMPUTE CORES 4C+6G
+Sistema operativo: Windows 10
+Memoria instalada: 6,95 GB
+
+Información sobre el software:
+Versión de Parasolid: 35.0.149
+Versión de PSBodyShop: 35.0.82
+Versión de Solid Edge: 223.00.00.101 x64
+
+Opciones de exportación de STL:
+Formato de la carpeta de salida:BINARY
+Exportar las piezas visualizadas: Desactivado
+Opción estructural: Monolithic
+Unidades de exportación: Millimeter
+Valor de la tolerancia de exportación:0,010000
+Tipo de tolerancia de exportación: Custom
+Valor del ángulo plano de superficie de exportación:0,017453
+
+Avance en la conversión:
+Fase 1 de 2 recuperando la información sobre Parasolid...
+Fase 2 de 2 convirtiendo Parasolid en tipos de datos externos...
+Número de archivos STL creados: 1
+Se completó el proceso de conversión
+Tiempo necesario para convertir:00 : 00 : 01
